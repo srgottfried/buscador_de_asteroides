@@ -1,0 +1,17 @@
+module:damm.it.proyectoud2samuelmanuel
+damm.it.proyectoud2samuelmanuel
+damm.it.proyectoud2samuelmanuel.controllers
+damm.it.proyectoud2samuelmanuel.daos
+damm.it.proyectoud2samuelmanuel.daos.apod
+damm.it.proyectoud2samuelmanuel.daos.neos
+damm.it.proyectoud2samuelmanuel.daos.requests
+damm.it.proyectoud2samuelmanuel.daos.users
+damm.it.proyectoud2samuelmanuel.entities.apod
+damm.it.proyectoud2samuelmanuel.entities.neos
+damm.it.proyectoud2samuelmanuel.models
+damm.it.proyectoud2samuelmanuel.repositories
+damm.it.proyectoud2samuelmanuel.repositories.apod
+damm.it.proyectoud2samuelmanuel.repositories.neos
+damm.it.proyectoud2samuelmanuel.repositories.requests
+damm.it.proyectoud2samuelmanuel.repositories.users
+damm.it.proyectoud2samuelmanuel.services
